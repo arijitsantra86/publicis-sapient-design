@@ -5,6 +5,21 @@ Key goals it wants accomplished as part of its solution:
 * Enable theatre partners to onboard their theatres over this platform and get access to a bigger customer base while going digital. 
 * Enable end customers to browse the platform to get access to movies across different cities, languages, and genres, as well as book tickets in advance with a seamless experience.
 
+## Technology to be Used
+* FE Interface: ReactJS & BootStrapJS
+* BE language and Framework: Java, Spring Boot
+* Security: OATH2
+* Database: Oracle
+* Server: Tomcat
+* Caching: Redis
+* Notifications: JMS queue
+* Payment API: Paypal/ Stripe
+* Deployment: Docker & K8
+* Code repository: Git
+* Logging: Log4J
+* Log Management: ELK Stack
+* Load balancer: Cloud provided LB
+
 ## Component Diagram
 ![compoenet_diagram](https://user-images.githubusercontent.com/103522950/220185569-0b46afdc-84b1-43e5-8e31-176499590ce0.jpeg)
 
